@@ -351,8 +351,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nickgarnham9@hotmail.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Book an appointment</b></span></font></p><ul class=\"mbr-contacts__list\"><li><b><a class=\"text-white\" href=\"https://mobirise.com/\">P</a>lease complete the form or call on 07815899838 to arrange an appointment</b></li><br><br></ul>",
+          "text1": "<strong>Address</strong><br>\n1 Market Place, Winford, Bristol, BS40 8AT<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nickgarnham9@hotmail.com<br>\nPhone: 07815899838<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Book an appointment</b></span></font></p><ul class=\"mbr-contacts__list\"><li><b>Please complete the form or call on 07815899838 to arrange an appointment</b></li><br><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "nickgarnham9@hotmail.co.uk",
@@ -381,7 +381,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
