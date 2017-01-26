@@ -23,10 +23,12 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 19,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -60,7 +62,7 @@
                 "showTitle": true,
                 "title": "STTSW",
                 "showText": true,
-                "text": "MORE INFORMATION",
+                "text": "Sports &amp; remedial massage focuses on the muscles within the musculoskeletal system.<br><br>It looks at the way that the musculoskeletal system works as a whole and focuses on the way that a particular person is compensating for injury or dysfunction through their lifestyle. It seeks to address both the symptoms and the causes of those symptoms.<br>Remedial massage involves deep tissue massage, neuromuscular techniques, passive and active stretching. It also ‘steals’ relevant movement patterns from physiotherapy and some joint manipulation from osteopathy.<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -74,21 +76,22 @@
                 "showTitle": true,
                 "title": "STTSW",
                 "showText": true,
-                "text": "BLAH BLAH BLAH",
-                "showButtons": true,
+                "text": "Osteopathic spinal manipulation can improve joint range of motion and balance tissue and muscle mechanics in order to relieve pain.<br>The National Institute for Health and Care Excellence (NICE) recommend the use of spine manipulation for the treatment of back pain in adults.",
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">BOOK APPOINTMENT</a> "
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/web-pic-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image11-2000x1400.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayColor": "#28324e",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "More info",
+                "title": "",
                 "showText": true,
-                "text": "more information.",
+                "text": "<b>Fully insured by Balens insrance and registered memebr of the Massage Training Istitute.</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -98,7 +101,16 @@
             "showBullets": true
           },
           "_anchor": "slider-9",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",
@@ -132,7 +144,7 @@
             "showButton": false
           },
           "title": "About Nick",
-          "text": "<p>Nick is a social hand grenade who cannot handle his drink, he is a serial bedwetter and often soils himself whilst intoxicated</p>",
+          "text": "<p>Nick is a level 5 Remedial &amp; Sports Massage Therapist. This is the highest level available within this sector.</p><p>Nick holds additional qualifications in Osteopathic Spine Manipulation and Sports Trauma Management which is approved by the association of chartered physiotherapists in sports medicine (gold level).</p><p>Nick integrates techniques from different therapies to develop a care package unique to each individual.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -175,98 +187,41 @@
           "title": "PRICING TABLE",
           "subtitle": "Pricing table with four columns and solid color background.",
           "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-5\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "title1": "INITIAL CONSULTATION &amp; TREATMENT",
+          "subtitle1": "60 minutes",
+          "currency1": "£",
+          "price1": "35",
+          "period1": "",
+          "description1": "Initial assessment and first treatment combined",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">15 minute assement</li><li class=\"list-group-item\">45 minute treatment</li><br></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "title2": "FOLLOW UP APPOINTMENTS",
+          "subtitle2": "45 minutes",
+          "currency2": "£",
+          "price2": "30",
+          "period2": "",
+          "description2": "Follow up treatment following initial consultation",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">45 minute treatment</li><li class=\"list-group-item\">Advice to prevent further injury</li><br></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "title3": "BLOCK BOOKING 4 SESSIONS",
+          "subtitle3": "A bundle deal for four 45 minute treatment sessions",
+          "currency3": "£",
+          "price3": "100",
+          "period3": "",
+          "description3": "A cost effective solution to help resolve any long term issues",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">four 45 minute treament sessions</li><li class=\"list-group-item\">Ideal for people looking to resolve &nbsp;long term injuries</li><br></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Happy Ending!!",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-d",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "BOOKING FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "scott.wreford@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "title4": "EVENT SUPPORT",
+          "subtitle4": "Custom support to meet your requirements",
+          "currency4": "",
+          "price4": "<a href=\"#bottom\" class=\"text-info\">contact us</a>",
+          "period4": "",
+          "description4": "Please contact so we can discuss.",
+          "list4": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Custom support package to suit your requirements</span><br><li class=\"list-group-item\">Please contant to discuss further</li><br></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -376,14 +331,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-5\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">What we do</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-i\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-c\">About Nick</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-a",
+          "_name": "contacts4",
+          "_anchor": "contacts4-g",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -394,16 +349,57 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nickgarnham9@hotmail.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Book an appointment</b></span></font></p><ul class=\"mbr-contacts__list\"><li><b><a class=\"text-white\" href=\"https://mobirise.com/\">P</a>lease complete the form or call on 07815899838 to arrange an appointment</b></li><br><br></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nickgarnham9@hotmail.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form! we will be in contact with you shortly"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-i",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#c1c1c1",
             "googleMap": {
-              "address": "1 market place, winford",
-              "placeId": "ChIJcTxE5UGLcUgR88AhlPa1bTs",
+              "address": "Market place, winford",
+              "placeId": "ChIJPUJt7kGLcUgRiBCh_bG03Rg",
               "state": "ok",
               "stateDetails": ""
             }
-          },
-          "text1": "<strong>Address</strong><br>1 Market Pl, Winford, Bristol BS40 8AT, UK<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nickgarnham9@hotmail.co.uk <br>\nPhone: 07815899838<br><br>",
-          "text2": "<ul><br><br></ul>"
+          }
         }
       ]
     }
