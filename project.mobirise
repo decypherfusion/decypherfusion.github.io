@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -45,92 +45,55 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "header1",
+          "_anchor": "header1-k",
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/p1030520-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "STTSW",
-                "showText": true,
-                "text": "Sports &amp; remedial massage focuses on the muscles within the musculoskeletal system.<br><br>It looks at the way that the musculoskeletal system works as a whole and focuses on the way that a particular person is compensating for injury or dysfunction through their lifestyle. It seeks to address both the symptoms and the causes of those symptoms.<br>Remedial massage involves deep tissue massage, neuromuscular techniques, passive and active stretching. It also ‘steals’ relevant movement patterns from physiotherapy and some joint manipulation from osteopathy.<br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "STTSW",
-                "showText": true,
-                "text": "Osteopathic spinal manipulation can improve joint range of motion and balance tissue and muscle mechanics in order to relieve pain.<br>The National Institute for Health and Care Excellence (NICE) recommend the use of spine manipulation for the treatment of back pain in adults.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">BOOK APPOINTMENT</a> "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/image11-2000x1400.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayColor": "#28324e",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "<b>Fully insured by Balens insrance and registered memebr of the Massage Training Istitute.</b>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider-9",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "font-size": "18px",
-              "text-align": "left"
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/p1030520-2000x1500.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "B": {
-              "font-size": "18px"
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "STTSW",
+          "text": "<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "text-align": "left",
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e"
             }
           }
         },
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-c",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -138,14 +101,45 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButtons": false
           },
-          "title": "About Nick",
-          "text": "<p>Nick is a level 5 Remedial &amp; Sports Massage Therapist. This is the highest level available within this sector.</p><p>Nick holds additional qualifications in Osteopathic Spine Manipulation and Sports Trauma Management which is approved by the association of chartered physiotherapists in sports medicine (gold level).</p><p>Nick integrates techniques from different therapies to develop a care package unique to each individual.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image11-1400x980.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ABOUT NICK",
+          "text": "Nick is a level 5 Remedial &amp; Sports Massage Therapist. This is the highest level available within this sector.<br>Nick holds additional qualifications in Osteopathic Spine Manipulation and Sports Trauma Management which is approved by the association of chartered physiotherapists in sports medicine (gold level).<br>Nick integrates techniques from different therapies to develop a care package unique to each individual..<br><br>Nick is &nbsp;fulliy insured by Balens Insurance and a registered member of the Massage Training Institute.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {

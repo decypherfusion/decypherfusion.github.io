@@ -411,16 +411,19 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#slider-9 P {
+#header1-k .mbr-section-lead {
   font-size: 18px;
   text-align: left;
+  color: #efefef;
 }
-#slider-9 B {
-  font-size: 18px;
+#header1-k .mbr-section-title {
+  color: #28324e;
 }
-#msg-box3-c .mbr-section-title,
-#msg-box3-c p {
-  color: #000;
+#msg-box5-j H3 {
+  text-align: left;
+}
+#msg-box5-j P {
+  text-align: left;
 }
 #pricing-table1-4 .mbr-section__container .mbr-section-title {
   color: #fff;
