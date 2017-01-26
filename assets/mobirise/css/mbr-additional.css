@@ -411,13 +411,9 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-k .mbr-section-lead {
-  font-size: 18px;
-  text-align: left;
-  color: #efefef;
-}
-#header1-k .mbr-section-title {
-  color: #28324e;
+#slider-l H2 {
+  text-align: center;
+  font-size: 36px;
 }
 #msg-box5-j H3 {
   text-align: left;
