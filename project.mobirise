@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -216,12 +216,7 @@
             "Theme"
           ],
           "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          },
-          "_anchor": "form1-5",
+          "_anchor": "form1-d",
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": 3,
@@ -238,7 +233,7 @@
             "showSubTitle": true
           },
           "title": "BOOKING FORM",
-          "subtitle": "Contact us now to book an appointment",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
             "action": "scott.wreford@gmail.com",
             "alerts": {
@@ -266,7 +261,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">BOOK NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
@@ -402,8 +402,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<strong>Links</strong><ul><li>Book appointment</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">O</a>ur prices</li><li>Download for Mac</li></ul>"
+          "text1": "<strong>Address</strong><br>1 Market Pl, Winford, Bristol BS40 8AT, UK<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nickgarnham9@hotmail.co.uk <br>\nPhone: 07815899838<br><br>",
+          "text2": "<ul><br><br></ul>"
         }
       ]
     }
