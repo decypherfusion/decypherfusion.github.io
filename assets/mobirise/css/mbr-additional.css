@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -414,8 +413,8 @@ h6,
   opacity: 0 !important;
 }
 #slider-r P {
-  font-family: 'Oswald', sans-serif;
-  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80px;
   text-align: center;
 }
 #msg-box5-j H3 {
