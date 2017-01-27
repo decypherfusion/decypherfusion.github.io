@@ -72,7 +72,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/logo-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -87,7 +91,7 @@
             }
           },
           "title": "WHAT WE DO",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "<b>- Remedial Sports Massage<br>- Osteopathic Spine Manipulation<br>- Sports Trauma Management</b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
