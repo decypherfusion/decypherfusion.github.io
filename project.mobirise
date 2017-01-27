@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "Blah blah blah",
+        "title": "Soft Tissue Therapy South West ",
+        "meta_descr": "Soft Tissue Therapy South West provides Remedial & Sports Massage Therapy, Osteopathic Spine Manipulation and Sports Trauma Management to treat and manage pain and injuries",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -46,6 +46,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "80px",
+              "text-align": "center"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -100,21 +108,21 @@
             "showBullets": true
           },
           "_anchor": "slider-r",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "80px",
-              "text-align": "center"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-j",
           "_params": {
             "imageSize": 50,
@@ -161,15 +169,7 @@
           },
           "title": "STTSW",
           "text": "STTSW provides Remedial &amp; Sports Massage Therapy, Osteopathic Spine Manipulation and Sports Trauma Management to treat and manage pain and injuries.<br><br>Remedial &amp; Sports Massage focuses on the muscles within the musculoskeletal system.<br><br>It looks at the way that the musculoskeletal system works as a whole and focuses on the way that a particular person is compensating for injury or dysfunction through their lifestyle. It seeks to address both the symptoms and the causes of those symptoms.<br>Remedial massage involves deep tissue massage, neuromuscular techniques, passive and active stretching. It also ‘steals’ relevant movement patterns from physiotherapy and some joint manipulation from osteopathy.<br><br>Osteopathic Spine Manipulation can improve joint range of motion and balance tissue and muscle mechanics in order to relieve pain.<br><br>Nicholas Garnham<br>Dip RSM. Cert Osteopathic Spine Manipulation. Cert Sports Trauma Management, approved by the association of chartered physiotherapists in sports medicine (gold level).<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -364,6 +364,11 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts4-g",
           "_params": {
             "paddingTop": 3,
@@ -407,12 +412,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "_styles": {
-            "UL": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         },
         {
           "_tags": [
