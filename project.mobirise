@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 27,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -45,66 +45,56 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-q",
           "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/p1030520-2000x1500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Remedial Sports Massage",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Osteopathic Spine Manipulation",
-                "showText": false,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/web-pic-2000x2000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "Sports Tramua Management",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": true
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
-          "_anchor": "slider-l",
-          "articleLayout": false,
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WHAT WE DO",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
-            "H2": {
-              "text-align": "center",
-              "font-size": "36px"
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           }
         },
@@ -157,8 +147,8 @@
               "size": 0
             }
           },
-          "title": "ABOUT NICK",
-          "text": "Nick is a level 5 Remedial &amp; Sports Massage Therapist. This is the highest level available within this sector.<br>Nick holds additional qualifications in Osteopathic Spine Manipulation and Sports Trauma Management which is approved by the association of chartered physiotherapists in sports medicine (gold level).<br>Nick integrates techniques from different therapies to develop a care package unique to each individual..<br><br>Nick is &nbsp;fulliy insured by Balens Insurance and a registered member of the Massage Training Institute.",
+          "title": "STTSW",
+          "text": "STTSW provides Remedial &amp; Sports Massage Therapy, Osteopathic Spine Manipulation and Sports Trauma Management to treat and manage pain and injuries.<br><br>Remedial &amp; Sports Massage focuses on the muscles within the musculoskeletal system.<br><br>It looks at the way that the musculoskeletal system works as a whole and focuses on the way that a particular person is compensating for injury or dysfunction through their lifestyle. It seeks to address both the symptoms and the causes of those symptoms.<br>Remedial massage involves deep tissue massage, neuromuscular techniques, passive and active stretching. It also ‘steals’ relevant movement patterns from physiotherapy and some joint manipulation from osteopathy.<br><br>Osteopathic Spine Manipulation can improve joint range of motion and balance tissue and muscle mechanics in order to relieve pain.<br><br>Nicholas Garnham<br>Dip RSM. Cert Osteopathic Spine Manipulation. Cert Sports Trauma Management, approved by the association of chartered physiotherapists in sports medicine (gold level).<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "H3": {
@@ -377,7 +367,7 @@
           "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Book an appointment</b></span></font></p><ul class=\"mbr-contacts__list\"><li><b>Please complete the form or call on 07815899838 to arrange an appointment</b></li><br><br></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "nickgarnham9@hotmail.co.uk",
+            "action": "scott.wreford@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form! we will be in contact with you shortly"
             },

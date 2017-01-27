@@ -411,9 +411,11 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#slider-l H2 {
-  text-align: center;
-  font-size: 36px;
+#msg-box5-q H3 {
+  color: #ffffff;
+}
+#msg-box5-q P {
+  color: #ffffff;
 }
 #msg-box5-j H3 {
   text-align: left;
