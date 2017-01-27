@@ -90,7 +90,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/image12-2000x2237.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shoulder-injury-2000x1124.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
