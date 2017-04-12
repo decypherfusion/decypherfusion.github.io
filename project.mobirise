@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "Booking .html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x72-1.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -61,8 +61,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/p1030520-2000x1500.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/image13-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -89,7 +89,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/shoulder2-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -218,7 +218,7 @@
           "period1": "",
           "description1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><br><br></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts4-g\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https:sttsw.youcanbook.me\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label2": "HOT!",
           "title2": "FOLLOW UP APPOINTMENTS",
           "subtitle2": "45 minutes",
@@ -227,7 +227,7 @@
           "period2": "",
           "description2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><br><br></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html#contacts4-g\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https:sttsw.youcanbook.me\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label3": "HOT!",
           "title3": "BLOCK BOOKING 4 SESSIONS",
           "subtitle3": "&nbsp;four 45 minute treatments&nbsp;",
@@ -236,7 +236,7 @@
           "period3": "",
           "description3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><br><br></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#contacts4-g\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https:sttsw.youcanbook.me\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label4": "HOT!",
           "title4": "EVENT SUPPORT",
           "subtitle4": "Contact us to discuss further details",
@@ -245,7 +245,7 @@
           "period4": "",
           "description4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><br><br></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#contacts4-g\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https:sttsw.youcanbook.me\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -357,7 +357,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Practitioners</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Booking .html\">Nick</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Practitioners</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Booking .html\">Nick</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -385,6 +385,26 @@
           },
           "text1": "<strong>Address</strong><br>\n1 Market Place, Winford<br>Bristol, BS40 8AT<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nick.sttsw@gmail.com<br>\nPhone: 07815899838<br><br>",
           "text2": "<br><ul><br></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Soft Tissue Therapy South West. Registered office: 4 King Square, Bridgewater, Somerset, TA6 3YF. Company Number: 10719875"
         }
       ]
     },
@@ -495,7 +515,7 @@
             }
           },
           "title": "NICK",
-          "text": "Nick is a Sports Therapist having qualifications at level 5 in Remedial &amp; Sports Massage Therapy, Sports Trauma Management (Gold level), Spine Manipulation, Sports strapping &amp; taping and Therapeutic Ultrasound treatment. <br>Nick specialises in the treatment of sports injuries and the assessment and treatment of postural dysfunction causing pain and discomfort. <br>Nick has a background in Rugby, Olympic weight lifting and CrossFit and specialises in treating athletes from these and other contact or high intensity sports.<br>Nick currently provides the pitch side and rehabilitation treatment for Yatton RFC and draws on this experience to treat patients in his private practice in Winford.<br><br>Please use the below contact form to speak with Nick or to book an appointment in Winford, Bristol.<br>",
+          "text": "Nick is a Sports Therapist having qualifications at level 5 in Remedial &amp; Sports Massage Therapy, Sports Trauma Management (Gold level), Spine Manipulation, Sports strapping &amp; taping and Therapeutic Ultrasound treatment. <br>Nick specialises in the treatment of sports injuries and the assessment and treatment of postural dysfunction causing pain and discomfort. <br>Nick has a background in Rugby, Olympic weight lifting and CrossFit and specialises in treating athletes from these and other contact or high intensity sports.<br>Nick currently provides the pitch side and rehabilitation treatment for Yatton RFC and draws on this experience to treat patients in his private practice in Winford.<br><br>Please use the below link to book an appointment with Nick or use the contact details below to get in touch.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://sttsw.youcanbook.me/\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
@@ -583,7 +603,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Practitioners</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Booking .html\">Nick</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Practitioners</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Booking .html\">Nick</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -611,6 +631,26 @@
           },
           "text1": "<strong>Address</strong><br>\n1 Market Place, Winford<br>Bristol, BS40 8AT<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nick.sttsw@gmail.com<br>\nPhone: 07815899838<br><br>",
           "text2": "<br><ul><br></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Soft Tissue Therapy South West. Registered office: 4 King Square, Bridgewater, Somerset, TA6 3YF. Company Number: 10719875"
         }
       ]
     },
@@ -705,7 +745,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Practitioners</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Booking .html\">Nick</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Practitioners</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Booking .html\">Nick</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -786,6 +826,26 @@
           },
           "text1": "<strong>Address</strong><br>\n1 Market Place, Winford<br>Bristol, BS40 8AT<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nick.sttsw@gmail.com<br>\nPhone: 07815899838<br><br>",
           "text2": "<br><ul><br></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Soft Tissue Therapy South West. Registered office: 4 King Square, Bridgewater, Somerset, TA6 3YF. Company Number: 10719875"
         }
       ]
     }
