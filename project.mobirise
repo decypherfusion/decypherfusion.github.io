@@ -55,7 +55,7 @@
               "font-size": "36px"
             },
             "SPAN": {
-              "font-size": "36px",
+              "font-size": "32px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#000000"
@@ -78,11 +78,11 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "overlayOpacity": "0.4",
                 "overlayColor": "#ffffff",
                 "contentAlign": "center",
@@ -98,7 +98,7 @@
                 "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "overlayOpacity": "0.4",
                 "overlayColor": "#ffffff",
                 "contentAlign": "center",
@@ -110,11 +110,11 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPINE MANIPULATION</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/shoulder2-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "overlayColor": "#ffffff",
                 "contentAlign": "center",
                 "showTitle": false,
