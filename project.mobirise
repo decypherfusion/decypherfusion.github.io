@@ -94,7 +94,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REMEDIAL SPORTS MASSAGE</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -110,8 +110,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPINE MANIPULATION</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/shoulder2-2000x1333.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/image12-2000x2237.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
