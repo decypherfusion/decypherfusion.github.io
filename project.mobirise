@@ -86,7 +86,7 @@
                 "overlayOpacity": "0.4",
                 "overlayColor": "#ffffff",
                 "contentAlign": "center",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "REMEDIAL SPORTS MASSAGE",
                 "showText": true,
                 "text": "<b style=\"font-style: normal;\">REMEDIAL SPORTS MASSAGE</b>",
