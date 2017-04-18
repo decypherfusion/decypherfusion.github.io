@@ -4,7 +4,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -412,11 +411,8 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#slider-r P {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 80px;
-  text-align: center;
-  color: #000000;
+#slider-1i .btn {
+  font-size: 24px;
 }
 #msg-box5-j H3 {
   text-align: left;
