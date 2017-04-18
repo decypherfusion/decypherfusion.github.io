@@ -51,7 +51,8 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "80px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -61,11 +62,12 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/image13-2000x1500.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
+                "overlayColor": "#979696",
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "FULL SCREEN SLIDER",
@@ -79,7 +81,7 @@
                 "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "VIDEO SLIDE",
@@ -89,11 +91,11 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/shoulder2-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "IMAGE SLIDE",
