@@ -89,12 +89,12 @@
                 "showTitle": false,
                 "title": "REMEDIAL SPORTS MASSAGE",
                 "showText": true,
-                "text": "<b style=\"font-style: normal;\">REMEDIAL SPORTS MASSAGE</b>",
+                "text": "<span style=\"font-style: normal;\">REMEDIAL SPORTS MASSAGE</span>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REMEDIAL SPORTS MASSAGE</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -105,12 +105,12 @@
                 "showTitle": false,
                 "title": "SPINE MANIPULATION",
                 "showText": true,
-                "text": "<br><span style=\"font-style: normal;\"><b>SPINE MANIPULATION</b></span><br><br>",
+                "text": "<span style=\"font-style: normal;\"><br>SPINE MANIPULATION</span><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPINE MANIPULATION</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/shoulder2-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -120,7 +120,7 @@
                 "showTitle": false,
                 "title": "SPORTS TRAUMA MANAGEMENT",
                 "showText": true,
-                "text": "<b style=\"font-style: normal;\">SPORTS TRAUMA MANAGEMENT</b>",
+                "text": "<span style=\"font-style: normal;\">SPORTS TRAUMA MANAGEMENT</span>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPORTS TRAUMA MANAGEMENT</a> "
               }
