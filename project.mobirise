@@ -46,6 +46,14 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            ".btn": {
+              "font-size": "24px"
+            },
+            "H2": {
+              "color": "#000000"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -53,31 +61,35 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#ffffff",
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": "FULL SCREEN SLIDER",
+                "showTitle": true,
+                "title": "REMEDIAL SPORTS MASSAGE",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REMEDIAL SPORTS MASSAGE</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/image1-2000x2500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
+                "overlay": true,
+                "overlayOpacity": "0.4",
+                "overlayColor": "#ffffff",
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": "VIDEO SLIDE",
+                "showTitle": true,
+                "title": "SPINE MANIPULATION",
                 "showText": false,
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPINE MANIPULATION</a> "
               },
               {
@@ -85,13 +97,14 @@
                 "image": "@PROJECT_PATH@/assets/images/shoulder2-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
+                "overlay": true,
+                "overlayColor": "#ffffff",
                 "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDE",
+                "showTitle": true,
+                "title": "SPORTS TRAUMA MANAGEMENT",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPORTS TRAUMA MANAGEMENT</a> "
               }
             ],
@@ -100,12 +113,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1i",
-          "articleLayout": false,
-          "_styles": {
-            ".btn": {
-              "font-size": "24px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
