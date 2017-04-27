@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "index.html",
+    "currentPage": "Booking .html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -518,7 +518,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-1400x788.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image15-1400x1593.jpg",
               "link": "",
               "alt": "",
               "title": "",
