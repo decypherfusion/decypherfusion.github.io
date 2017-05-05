@@ -661,6 +661,9 @@ h6,
 #msg-box5-1k P {
   text-align: left;
 }
+#content1-1q P {
+  color: #ffffff;
+}
 #ext_menu-1l .hide-buttons .nav-btn {
   display: none !important;
 }

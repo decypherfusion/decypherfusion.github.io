@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "index.html",
+    "currentPage": "Emily.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x72-1.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -399,13 +399,13 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "1 Market Place, Winford\nBristol, BS40 8AT\n\n",
+              "address": "1 Market Place, Winford, Bristol, BS40 8AT",
               "placeId": "ChIJcTxE5UGLcUgR88AhlPa1bTs",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n1 Market Place, Winford<br>Bristol, BS40 8AT<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nick.sttsw@gmail.com<br>\nPhone: 07815899838<br><br>",
+          "text1": "<strong>Address</strong><br>1 Market Place, Winford, Bristol, BS40 8AT<br><br><br>\n<strong>Contacts</strong><br>\nEmail: nick.sttsw@gmail.com<br>\nPhone: 07815899838<br><br>",
           "text2": "<br><ul><br></ul>"
         },
         {
@@ -982,6 +982,24 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://sttsw.youcanbook.me/\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#323232"
+          },
+          "text": "<p>Yatton RFC, Park North End, Yatton, Bristol, North Somerset, BS49 4AR</p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1093,10 +1111,10 @@
             "Theme"
           ],
           "_name": "map2",
-          "_anchor": "map2-1o",
+          "_anchor": "map2-1p",
           "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgColor": "#323232",
             "googleMap": {
               "address": "Off North End, Yatton, Bristol, BS49 4RQ",
