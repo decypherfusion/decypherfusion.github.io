@@ -986,18 +986,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-1q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#323232"
           },
-          "text": "<p>Yatton RFC, Park North End, Yatton, Bristol, North Somerset, BS49 4AR</p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p>Yatton RFC, The Park, North End, Yatton, Bristol, North Somerset, BS49 4AR</p>"
         },
         {
           "_inherit": "menu",
