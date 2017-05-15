@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "Winford .html",
+    "currentPage": "Yatton.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -959,7 +959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image16-1400x971.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image17-1400x1401.jpg",
               "link": "",
               "alt": "",
               "title": "",
