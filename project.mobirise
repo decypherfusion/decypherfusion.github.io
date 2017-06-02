@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "index.html",
+    "currentPage": "cpdcourses.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1437,7 +1437,7 @@
           },
           "testimonial": [
             {
-              "text": "<p><b>MEDICAL ACUPUNCTURE</b></p><p><span style=\"font-style: normal;\">Medical Acupuncture (Dry Needling) involves inserting fine needles for a therapeutic effect. Overall, it is an adaptation of the Chinese method just using modern up-to-date knowledge of anatomy and physiology. Medical Acupuncturists no longer conform to the notion of Ying and Yang. However, we do aim to create homeostasis within the body.</span></p><p><span style=\"font-style: normal;\">Throughout this course, reference is made to Traditional Chinese Medicine (TCM) as fundamentally the influence of Medical Acupuncture originates from this but TCM will not be taught.</span></p><p><span style=\"font-style: normal;\">OMT Medical Acupuncture (Dry Needling) is designed for; Osteopaths, Physiotherapists, Sports &amp; Remedial Massage Therapists and any other soft tissue workers (please contact us for suitability if needed)</span></p><p><span style=\"font-style: normal;\">We will add a new skill of treatment to your highly skilled tool box. You will leave this OMT Training course with a great knowledge of Medical Acupuncture (Dry Needling) and how it applies to your treatments.</span></p>",
+              "text": "<p><b style=\"font-style: normal;\">MEDICAL ACUPUNCTURE</b></p><p><span style=\"font-style: normal;\">Medical Acupuncture (Dry Needling) involves inserting fine needles for a therapeutic effect. Overall, it is an adaptation of the Chinese method just using modern up-to-date knowledge of anatomy and physiology. Medical Acupuncturists no longer conform to the notion of Ying and Yang. However, we do aim to create homeostasis within the body.</span></p><p><span style=\"font-style: normal;\">Throughout this course, reference is made to Traditional Chinese Medicine (TCM) as fundamentally the influence of Medical Acupuncture originates from this but TCM will not be taught.</span></p><p><span style=\"font-style: normal;\">OMT Medical Acupuncture (Dry Needling) is designed for; Osteopaths, Physiotherapists, Sports &amp; Remedial Massage Therapists and any other soft tissue workers (please contact us for suitability if needed)</span></p><p><span style=\"font-style: normal;\">We will add a new skill of treatment to your highly skilled tool box. You will leave this OMT Training course with a great knowledge of Medical Acupuncture (Dry Needling) and how it applies to your treatments.</span></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/dryneedling-1400x1400.jpg",
@@ -1483,7 +1483,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p><b>WHO IS THE COURSE FOR?</b></p><p><span style=\"font-style: normal;\">Osteopaths / Student Osteopaths</span></p><p><span style=\"font-style: normal;\">Physiotherapists / Student Physiotherapists</span></p><p><span style=\"font-style: normal;\">Sports &amp; Remedial Massage Therapists</span></p><p><span style=\"font-style: normal;\">Sports Therapists / Student Sports Therapists</span></p>",
+              "text": "<p><b style=\"font-style: normal;\">WHO IS THE COURSE FOR?</b></p><p><span style=\"font-style: normal;\">Osteopaths / Student Osteopaths</span></p><p><span style=\"font-style: normal;\">Physiotherapists / Student Physiotherapists</span></p><p><span style=\"font-style: normal;\">Sports &amp; Remedial Massage Therapists</span></p><p><span style=\"font-style: normal;\">Sports Therapists / Student Sports Therapists</span></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
