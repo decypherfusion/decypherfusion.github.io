@@ -1565,7 +1565,7 @@
             "showButton": true
           },
           "title": "BOOK NOW",
-          "text": "<p>To join us on this fantastic course please book now as spaces are filling up fast! Course Price: £285 - Payment via Paypal below incurs a £10 paypal fee. If you would like to avoid the additinal £10 fee please contact Nick at <a href=\"mailto?: nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange balance transfers.</p>",
+          "text": "<p>To join us on this fantastic course please book now as spaces are filling up fast! Course Price: £285 - Payment via Paypal below incurs a £10 paypal fee. If you would like to avoid the additinal £10 fee please contact Nick at <a href=\"mailto:nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange balance transfers.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1&amp;item_name=BOOK+NOW&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         }
       ]
