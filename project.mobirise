@@ -1497,7 +1497,7 @@
               "authorBio": "Developer"
             },
             {
-              "text": "<p><span style=\"font-style: normal;\"><b>WHEN AND WHERE IS THE COURSE BEING HELD?</b></span></p><p><span style=\"font-style: normal;\">Dates: November 11th 2017/Novemeber 12th 2017</span></p><div>Start time: 8:30am Registration for 9.30am - 4.30pm Course</div><div>Maximum number of students: 20</div><div>Course Price: £285 - Payment via Paypal below incurs a £10 paypal fee. If you would like to avoid the additinal £10 fee please contact Nick at nick.sttsw@gmail.com or 07815899838 to arrange balance transfers.</div><p></p>",
+              "text": "<p><span style=\"font-style: normal;\"><b>WHEN AND WHERE IS THE COURSE BEING HELD?</b></span></p><p><span style=\"font-style: normal;\"><b>BRISTOL</b></span></p><p><span style=\"font-style: normal;\">Winford School, Felton Lane, Winford, BS40 8AD</span></p><p><span style=\"font-style: normal; line-height: 2;\">Dates: November 11th 2017/Novemeber 12th 2017</span><br></p><div>Start time: 8:30am Registration for 9.30am - 4.30pm Course</div><div>Maximum number of students: 20</div><div>Course Price: £285</div><p></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
