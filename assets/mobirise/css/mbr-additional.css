@@ -789,6 +789,10 @@ h6,
 }
 
 
+#header3-28 .mbr-section-title,
+#header3-28 .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-1u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -857,6 +861,9 @@ h6,
 #testimonials2-26 .card-block DIV {
   font-family: 'Oswald', sans-serif;
   font-size: 24px;
+}
+#testimonials2-26 .mbr-section-title P {
+  font-size: 48px;
 }
 #msg-box3-27 .mbr-section-title,
 #msg-box3-27 p {

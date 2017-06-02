@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x72-1.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1289,6 +1289,26 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "CPD COURSES",
+          "meta": "STTSW is pleased to bring <a href=\"http://www.omttraining.co.uk/\">OMT</a> training to Bristol"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -1410,6 +1430,9 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "24px"
+            },
+            ".mbr-section-title P": {
+              "font-size": "48px"
             }
           },
           "testimonial": [
@@ -1474,7 +1497,7 @@
               "authorBio": "Developer"
             },
             {
-              "text": "<p><span style=\"font-style: normal;\"><b>WHEN AND WHERE IS THE COURSE BEING HELD?</b></span></p><p><span style=\"font-style: normal;\">Dates: November 11th 2017/Novemeber 12th 2017</span></p><div>Start time: 8:30am Registration for 9.30am - 4.30pm Course</div><div>Maximum number of students: 20</div><div>Course Price: £295</div><p></p>",
+              "text": "<p><span style=\"font-style: normal;\"><b>WHEN AND WHERE IS THE COURSE BEING HELD?</b></span></p><p><span style=\"font-style: normal;\">Dates: November 11th 2017/Novemeber 12th 2017</span></p><div>Start time: 8:30am Registration for 9.30am - 4.30pm Course</div><div>Maximum number of students: 20</div><div>Course Price: £285 - Payment via Paypal below incurs a £10 paypal fee. If you would like to avoid the additinal £10 fee please contact Nick at nick.sttsw@gmail.com or 07815899838 to arrange balance transfers.</div><p></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -1491,7 +1514,7 @@
           "_anchor": "testimonials2-26",
           "_params": {
             "count": "5",
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "showImages": false,
             "showName": false,
@@ -1504,10 +1527,10 @@
             "overlay": false,
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true
+            "showTitle": false,
+            "showSubtitle": false
           },
-          "title": "CPD COURSES",
+          "title": "<p>CPD COURSES</p>",
           "subtitle": ""
         },
         {
@@ -1542,7 +1565,7 @@
             "showButton": true
           },
           "title": "BOOK NOW",
-          "text": "<p>To join us on this fantastic course please book now as spaces are filling up fast!</p>",
+          "text": "<p>To join us on this fantastic course please book now as spaces are filling up fast! Course Price: £285 - Payment via Paypal below incurs a £10 paypal fee. If you would like to avoid the additinal £10 fee please contact Nick at <a href=\"mailto?: nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange balance transfers.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1&amp;item_name=BOOK+NOW&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         }
       ]
