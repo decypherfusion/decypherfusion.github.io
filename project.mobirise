@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "cpdcourses.html",
+    "currentPage": "paypalpayments.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x72-1.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 88,
+    "uniqCompNum": 97,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1393,7 +1393,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sttsw.youcanbook.me/\">Book Appointment</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://sttsw.youcanbook.me/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Book Appointment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw.youcanbook.me/\">Winford Practice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw-emily.youcanbook.me/\">Yatton Practice</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -1567,6 +1567,294 @@
           "title": "BOOK NOW ONLY 1 SPACE LEFT",
           "text": "<p>To join us on this fantastic course &nbsp;please contact Nick at <a href=\"mailto:nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange balance transfers.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=295&amp;item_name=BOOK+NOW&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+        }
+      ]
+    },
+    "paypalpayments.html": {
+      "settings": {
+        "title": "CPD Courses",
+        "meta_descr": "CPD Courses"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2k",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "CPD COURSES",
+          "meta": "STTSW is pleased to bring <a href=\"http://www.omttraining.co.uk/\">OMT</a> training to Bristol"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2l",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-227x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://sttsw.youcanbook.me/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Book Appointment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw.youcanbook.me/\">Winford Practice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw-emily.youcanbook.me/\">Yatton Practice</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Soft Tissue Therapy South West. Registered office: 4 King Square, Bridgewater, Somerset, TA6 3YF. Company Number: 10719875"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "24px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".card-block DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "24px"
+            },
+            ".mbr-section-title P": {
+              "font-size": "48px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p><b style=\"font-style: normal;\">MEDICAL ACUPUNCTURE</b></p><p><span style=\"font-style: normal;\">Medical Acupuncture (Dry Needling) involves inserting fine needles for a therapeutic effect. Overall, it is an adaptation of the Chinese method just using modern up-to-date knowledge of anatomy and physiology. Medical Acupuncturists no longer conform to the notion of Ying and Yang. However, we do aim to create homeostasis within the body.</span></p><p><span style=\"font-style: normal;\">Throughout this course, reference is made to Traditional Chinese Medicine (TCM) as fundamentally the influence of Medical Acupuncture originates from this but TCM will not be taught.</span></p><p><span style=\"font-style: normal;\">OMT Medical Acupuncture (Dry Needling) is designed for; Osteopaths, Physiotherapists, Sports &amp; Remedial Massage Therapists and any other soft tissue workers (please contact us for suitability if needed)</span></p><p><span style=\"font-style: normal;\">We will add a new skill of treatment to your highly skilled tool box. You will leave this OMT Training course with a great knowledge of Medical Acupuncture (Dry Needling) and how it applies to your treatments.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/dryneedling-1400x1400.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "",
+              "authorBio": ""
+            },
+            {
+              "text": "<p><span style=\"font-style: normal;\"><b>COURSE OVERVIEW</b></span></p><p><span style=\"font-style: normal;\">This OMT Training CPD Course is designed to introduce participants to the use of Medical Acupuncture (Dry Needling) for the purpose of muscular pain relief. This course is not designed to treat pathological conditions as taught to TCM Acupuncturists.</span></p><p><span style=\"font-style: normal;\">The training will look at the most effective techniques taken from both Traditional Acupuncture and current Western Acupuncture, giving the students a sound background of knowledge and skill to fully use OMT Acupuncture techniques within their own practice.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b><br></b></p><p><span style=\"font-style: normal;\"><b>WHAT STUDENTS WILL GAIN FROM THIS COURSE</b></span></p><p><span style=\"font-style: normal;\"><b>&nbsp;</b>Safe, sound and effective background in the use of OMT Medical Acupuncture (Dry Needling)</span></p><div><span style=\"font-style: normal;\">Traditional Chinese Acupuncture will be referenced by the lecturer but these will not be taught in depth</span></div><div><span style=\"font-style: normal;\">OMT Acupuncture will offer participants a fantastic new skill base with which they can use within their clinical practice</span></div><div><span style=\"font-style: normal;\">Discuss scientific evidence for the use of Acupuncture techniques</span></div><div><span style=\"font-style: normal;\">Discuss current research for the use of Acupuncture</span></div><div><span style=\"font-style: normal;\">Relate the use of Acupuncture to the treatment of acute and chronic pain, and for a number of musculoskeletal conditions</span></div><div><span style=\"font-style: normal;\">Give students a high level of safety, clinical competence and overall the confidence to use acupuncture techniques</span></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b style=\"font-style: normal;\">WHO IS THE COURSE FOR?</b></p><p><span style=\"font-style: normal;\">Osteopaths / Student Osteopaths</span></p><p><span style=\"font-style: normal;\">Physiotherapists / Student Physiotherapists</span></p><p><span style=\"font-style: normal;\">Sports &amp; Remedial Massage Therapists</span></p><p><span style=\"font-style: normal;\">Sports Therapists / Student Sports Therapists</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p><span style=\"font-style: normal;\"><b>WHEN AND WHERE IS THE COURSE BEING HELD?</b></span></p><p><span style=\"font-style: normal;\"><b>BRISTOL</b></span></p><p><span style=\"font-style: normal;\">Winford School, Felton Lane, Winford, Bristol, BS40 8AD</span></p><p><span style=\"font-style: normal; line-height: 2;\">Dates: November 11th 2017/Novemeber 12th 2017</span><br></p><div>Start time: 8:30am Registration for 9.30am - 4.30pm Course</div><div>Maximum number of students: 20</div><div>Course Price: £285</div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials2-2n",
+          "_params": {
+            "count": "5",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false
+          },
+          "title": "<p>CPD COURSES</p>",
+          "subtitle": ""
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "BOOK NOW&nbsp;",
+          "text": "<p>To join us on this fantastic course &nbsp;please contact Nick at <a href=\"mailto:nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange balance transfers. To pay via PayPal click the button below</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=295&amp;item_name=Pay+Now&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         }
       ]
     }
