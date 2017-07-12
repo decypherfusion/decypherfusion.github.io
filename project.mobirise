@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "paypalpayments.html",
+    "currentPage": "cpdcourses.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1564,8 +1564,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "BOOK NOW ONLY 1 SPACE LEFT",
-          "text": "<p>To join us on this fantastic course &nbsp;please contact Nick at <a href=\"mailto:nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange balance transfers.</p>",
+          "title": "THIS COURSE IS NOW FULLY BOOKED",
+          "text": "<p>To join us on future courses &nbsp;please contact Nick at <a href=\"mailto:nick.sttsw@gmail.com\">nick.sttsw@gmail.com</a> or 07815899838 to arrange&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=295&amp;item_name=BOOK+NOW&amp;currency_code=GBP\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         }
       ]
