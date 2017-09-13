@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "Yatton.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -239,9 +239,9 @@
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "",
-            "showButtons": true,
+            "showButtons": false,
             "secondType": "",
-            "thirdType": "hidden",
+            "thirdType": "",
             "fourthType": ""
           },
           "title": "PRICES",
@@ -265,10 +265,10 @@
           "list2": "<ul class=\"list-group list-group-flush\"><br><br></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https:sttsw.youcanbook.me\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "label3": "HOT!",
-          "title3": "BLOCK BOOKING 4 SESSIONS",
-          "subtitle3": "&nbsp;four 45 minute treatments&nbsp;",
+          "title3": "HOME VISITS",
+          "subtitle3": "60 minutes&nbsp;",
           "currency3": "£",
-          "price3": "100",
+          "price3": "40",
           "period3": "",
           "description3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><br><br></ul>",
@@ -393,7 +393,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://sttsw.youcanbook.me/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Book Appointment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw.youcanbook.me/\">Winford Practice</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://sttsw.youcanbook.me/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Book Appointment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw.youcanbook.me/\">Winford Practice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw-kat.youcanbook.me\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -967,16 +967,16 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image16-1400x971.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x2413.jpg",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Kat Shaw",
+              "title": "Kat Shaw",
               "linkInNewWindow": false
             },
             "video": {
@@ -992,8 +992,8 @@
             }
           },
           "title": "YATTON PRACTICE",
-          "text": "STTSW provides treatment to the members of Yatton R.F.C. We are in the process of extending this service to the public. Please contact Nick for further details on 07815899838",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://sttsw-emily.youcanbook.me/\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
+          "text": "Kat Shaw is a University of Bath graduate with a BSc in Sports Performance, Level 4 Sports Massage Therapy and a certified RockDoc and RockBlader.<br><br>Kat has recently returned from Australia where she was coaching rowin and working as a Sports Rehabilitation Therapist.<br><br>Kat learnt Kinesiology Taping with RockTape UK at the British School of Osteopathy. Kinesiology Taping is used for structural support, postural support, draining of swelling and bruising and to aid a speedy recovery.<br><br>Click the link below to learn more about RockTape and the benefits of kinesiology taping. <a href=\"http://www.rocktape.co.uk/why-rocktape\" target=\"_blank\">http://www.rocktape.co.uk/why-rocktape</a><br><a href=\"http://www.rocktape.co.uk/why-rocktape\" target=\"_blank\"><br></a>Kat has a background in Swimming, Rowing and most recently, CrossFit.<br><br>Kat will now be working to aid recovery both in the Yatton practice and also through some home visits in Bristol and Bath. Kat can help with in-practice treatments, advise on excercises and at home ideas to get you bak on track.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://sttsw-kat.youcanbook.me/\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
           "_tags": [
@@ -1098,7 +1098,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://sttsw.youcanbook.me/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Book Appointment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw.youcanbook.me/\">Winford Practice</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page3.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Locations</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Winford .html\">Winford</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Yatton.html\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Thanks.html#contacts2-1f\">Find Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://sttsw.youcanbook.me/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Book Appointment</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw.youcanbook.me/\">Winford Practice</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://sttsw-kat.youcanbook.me\">Yatton</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"cpdcourses.html\">CPD Courses</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
