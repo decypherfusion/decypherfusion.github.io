@@ -1467,7 +1467,7 @@
             }
           },
           "title": "KAT SHAW",
-          "text": "Kat Shaw is a University of Bath graduate with a BSc in Sports Performance, Level 4 Sports Massage Therapy and a certified RockDoc and RockBlader.<br><br>Kat has recently returned from Australia where she was coaching rowing and working as a Sports Rehabilitation Therapist.<br><br>Kat learnt Kinesiology Taping with RockTape UK at the British School of Osteopathy. Kinesiology Taping is used for structural support, postural support, draining of swelling and bruising and to aid a speedy recovery.<br><br>Click the link below to learn more about RockTape and the benefits of kinesiology taping. <a href=\"http://www.rocktape.co.uk/why-rocktape\" target=\"_blank\">http://www.rocktape.co.uk/why-rocktape</a><br><a href=\"http://www.rocktape.co.uk/why-rocktape\" target=\"_blank\"><br></a>Kat has a background in Swimming, Rowing and most recently, CrossFit.<br><br>Kat will now be working to aid recovery both in the Yatton practice and also through some home visits in Chew Valley and North Somerset. Kat can help with in-practice treatments, advise on excercises and at home ideas to get you bak on track.&nbsp;<br><br>Kat will also be running treatment from our Winford branch on Wednesday and Friday between 9am and 3pm<br><br>",
+          "text": "Kat Shaw is a University of Bath graduate with a BSc in Sports Performance, Level 4 Sports Massage Therapy and a certified RockDoc and RockBlader.<br><br>Kat has recently returned from Australia where she was coaching rowing and working as a Sports Rehabilitation Therapist.<br><br>Kat learnt Kinesiology Taping with RockTape UK at the British School of Osteopathy. Kinesiology Taping is used for structural support, postural support, draining of swelling and bruising and to aid a speedy recovery.<br><br>Click the link below to learn more about RockTape and the benefits of kinesiology taping. <a href=\"http://www.rocktape.co.uk/why-rocktape\" target=\"_blank\">http://www.rocktape.co.uk/why-rocktape</a><br><a href=\"http://www.rocktape.co.uk/why-rocktape\" target=\"_blank\"><br></a>Kat has a background in Swimming, Rowing and most recently, CrossFit.<br><br>Kat runs all our private client treatment sessions in Yatton, Winford and provides home visits<br><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"booknow.html\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>"
         },
         {
@@ -2428,7 +2428,7 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Book an appointment at out Yatton Practice",
+          "title1": "Book an appointment at our Yatton Practice",
           "subtitle1": "",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://sttsw-kat.youcanbook.me/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
@@ -2447,7 +2447,7 @@
           "title2": "Book an appoinment at our Winford Practice",
           "subtitle2": "",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://sttsw-kat.youcanbook.me/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sttsw.youcanbook.me/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-600x338.jpg",
