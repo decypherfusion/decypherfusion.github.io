@@ -2159,7 +2159,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "2",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -2194,10 +2194,10 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Book an appoinment at our Winford Practice",
+          "title2": "",
           "subtitle2": "",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://sttsw.youcanbook.me/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "caption2": "<b>Book an appointment for a home visit</b>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://sttsw-kat.youcanbook.me/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK NOW</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-600x338.jpg",
