@@ -752,6 +752,10 @@ h6,
 #msg-box5-1k P {
   text-align: left;
 }
+#social-buttons3-3m .mbr-section-title,
+#social-buttons3-3m .btn-social {
+  color: #fff;
+}
 #content1-1q P {
   color: #ffffff;
 }
@@ -1044,6 +1048,10 @@ h6,
 #ext_menu-3d .link[aria-expanded="true"],
 #ext_menu-3d .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#social-buttons3-3l .mbr-section-title,
+#social-buttons3-3l .btn-social {
+  color: #fff;
 }
 #header3-3j .mbr-section-title,
 #header3-3j .mbr-section-subtitle {
