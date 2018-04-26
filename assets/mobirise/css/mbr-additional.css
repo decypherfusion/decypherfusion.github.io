@@ -1118,3 +1118,7 @@ h6,
 #ext_menu-3g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#social-buttons3-3n .mbr-section-title,
+#social-buttons3-3n .btn-social {
+  color: #fff;
+}

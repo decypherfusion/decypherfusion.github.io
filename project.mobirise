@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beta-01-25_1340",
-    "currentPage": "booknow.html",
+    "currentPage": "FindUs.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x72-1.png",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2416,6 +2416,37 @@
           },
           "text1": "<strong>Address</strong><br>Yatton RFC, The Park, North End, Yatton, Bristol, North Somerset, BS49 4AR<br><br><br>\n<strong>Contacts</strong><br>\nEmail: <br>nick.sttsw@gmail.com<br>kat.sttsw@gmail.com<br><br><br>",
           "text2": "<ul><br></ul>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-3n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
         }
       ]
     }
