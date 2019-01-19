@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SoftTissueTherapy",
-    "currentPage": "index.html",
+    "currentPage": "booknow.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1498,7 +1498,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1514,7 +1514,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:nick.sttsw@gmail.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
