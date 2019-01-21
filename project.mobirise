@@ -1511,7 +1511,7 @@
           "title1": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Book an appointment at our Yatton Practice</span><br>",
           "subtitle1": "",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"mailto:nick.sttsw@gmail.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:nick.sttsw@gmail.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">nick@sttsw.co.uk</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-600x338.jpg",
@@ -1527,7 +1527,7 @@
           "title2": "",
           "subtitle2": "",
           "caption2": "<b>Book an appointment for a home visit</b>",
-          "button2": "<a data-app-btn=\"true\" href=\"ms-outlook://compose?to=nick@sttsw.co.uk\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BOOK NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:nick.sttsw@gmail.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">nick@sttsw.co.uk</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-600x338.jpg",
